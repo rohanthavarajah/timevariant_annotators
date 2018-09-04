@@ -1,0 +1,17 @@
+name: tv_annos
+dependencies:
+  - python
+  - cloudpickle
+  - ipykernel
+  - mingw
+  - libpython
+  - m2w64-toolchain
+  - mkl=2017
+  - pygpu
+  - theano
+  - pymc3
+  - parameterized
+  - dill
+  - pandas
+  - numpy
+  - matplotlib
